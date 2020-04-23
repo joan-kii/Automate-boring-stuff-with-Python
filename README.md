@@ -5,7 +5,7 @@ ___
 
 * Chapter 3: **FUNCTIONS**
 
-    [The Collatz Sequence](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%203/theCollatzSequence.py)
+        [The Collatz Sequence](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%203/theCollatzSequence.py)
 
     [Input Validation](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%203/inputValidation.py)
 
