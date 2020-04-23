@@ -5,7 +5,7 @@ ___
 
 * Chapter 3: **FUNCTIONS**
 
-[The Collatz Sequence](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%203/theCollatzSequence.py)
+** [The Collatz Sequence](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%203/theCollatzSequence.py)
 
 [Input Validation](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%203/inputValidation.py)
 
@@ -77,6 +77,7 @@ ___
 [Link Verification](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%2012/linkVerification.py)
 
 * Chapter 13: **WORKING WITH EXCEL SPREADSHEETS**
+
 [Multiplication Table Maker](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%2013/multiplicationTableMaker.py)
 
 [Blank Row Inserter](https://github.com/joan-kii/Automate-boring-stuff-with-Python/blob/master/Chapter%2013/blankRowInserter.py)
