@@ -3,4 +3,4 @@ Conjunto de ejercicios del magnífico libro de Al Sweigart "[Automate boring stu
 
 ___
 
-..* Chapter 3: **Funciones**
+* Chapter 3: **Funciones**
